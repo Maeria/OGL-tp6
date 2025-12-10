@@ -11,7 +11,6 @@
         "steps": [
           {
             "result": {
-              "duration": 2004500,
               "status": "passed"
             },
             "line": 3,
@@ -24,7 +23,7 @@
         ]
       },
       {
-        "start_timestamp": "2025-12-10T13:58:46.102Z",
+        "start_timestamp": "2025-12-10T14:09:59.180Z",
         "line": 5,
         "name": "Cofactor",
         "description": "",
@@ -34,7 +33,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2003400,
+              "duration": 2002700,
               "status": "passed"
             },
             "line": 6,
