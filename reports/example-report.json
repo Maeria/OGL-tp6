@@ -65,7 +65,6 @@
           },
           {
             "result": {
-              "duration": 2003000,
               "status": "passed"
             },
             "line": 10,
@@ -118,7 +117,7 @@
         ]
       },
       {
-        "start_timestamp": "2025-12-10T14:09:59.313Z",
+        "start_timestamp": "2025-12-10T13:58:46.229Z",
         "line": 17,
         "name": "Inverse",
         "description": "",
@@ -128,6 +127,7 @@
         "steps": [
           {
             "result": {
+              "duration": 7943500,
               "status": "passed"
             },
             "line": 18,
@@ -159,6 +159,7 @@
           },
           {
             "result": {
+              "duration": 12988500,
               "status": "passed"
             },
             "line": 22,
